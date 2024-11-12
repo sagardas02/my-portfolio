@@ -100,7 +100,7 @@ export default function Home() {
               <a href="https://www.linkedin.com/in/sagar-das-87669625a/">
           <img src={linkedin} alt="" className="linkedin-icons" />
           </a>
-          <a href="https://github.com/sagardas424">
+          <a href="https://github.com/sagardas02">
           <img src={github} alt="" className="github-icons" />
           </a>
           <a href="https://www.facebook.com/sagartitu.das?mibextid=LQQJ4d">
