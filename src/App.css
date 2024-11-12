@@ -1,0 +1,553 @@
+
+
+.main{
+  width: 100%;
+  height: 100%;
+}
+
+.header{
+  width: 100%;
+  height: 95vh;
+margin: 0 auto;
+  align-content: center;
+}
+
+.intro{
+  text-align: center;
+  overflow: hidden;
+
+}
+
+.img{
+  display: flex;
+  justify-content: center;
+}
+.my-img{
+  background-color: #3366CC;
+  height: 28vh;
+  width:11vw;
+  align-self: center;
+  border-radius: 50%;
+}
+
+.intro1{
+  color: #784af6;
+  text-align: center;
+}
+
+.header p{
+  text-align: center;
+  font-size: 1.4vw;
+  font-weight: 400;
+  color: #784af6;
+}
+
+
+.main-content{
+  width: 100%;
+  height: 210vh;
+  background-color: rgb(100, 168, 190);
+  display: flex;
+  justify-content: center;
+}
+
+.sub-content{
+  margin-top: 1vh;
+  margin-bottom: 1vhs;
+
+  height: calc(100% - 2vh);
+  width: 75%;
+}
+
+.content-part1{
+  margin-top: 3vh;
+  height: 30%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.about{
+background-color: rgb(255, 255, 255);
+height: 100%;
+width: 48%;
+
+}
+
+.about h1{
+  color: rgb(100, 168, 190);
+  padding-left: 3rem;
+}
+
+.about p{
+  padding-right: 2rem;
+  padding-left: 3rem;
+  font-weight: 400;
+}
+
+.skills{
+  background-color: #3366CC;
+  height: 100%;
+  width: 48%;
+  padding-left: 3rem;
+  color: rgb(255, 255, 255);
+  }
+
+  .strong{
+    margin-top: 1rem;
+  }
+  .hr{
+    height: 0.7vh;
+    width: 80%;
+    background-color:white ;
+    margin-top: 0.7rem;
+  }
+  .hr2{
+    height: 0.7vh;
+    width: 80%;
+    background-color:white ;
+    margin-top: 0.7rem;
+  }
+  .hr3{
+    height: 0.7vh;
+    width: 70%;
+    background-color:white ;
+    margin-top: 0.7rem;
+  }
+  .hr4{
+    height: 0.7vh;
+    width: 70%;
+    background-color:white ;
+    margin-top: 0.7rem;
+  }
+
+  .content-part2{
+
+    height: 37%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 7vh;
+  }
+
+  .education{
+    background-color: #3366CC;
+    height: 100%;
+    width: 62%;
+    }
+
+    .education h1{
+      padding-left: 3rem;
+      color: white;
+      font-size: 3rem;
+
+    }
+    .bca-container p{
+      padding-right: 2rem;
+    }
+    .bca-container h3{
+      padding-left: 3rem;
+      font-size: 2rem;
+      color: #60A9F0;
+      height: 1rem;
+    }
+
+    .bca-container h4{
+      padding-left: 3rem;
+      font-size: 1.7rem;
+      color: white;
+      font-weight: 400;
+      height: 1rem;
+    }
+    .bca-container h6{
+      padding-left: 3rem;
+      font-size: 1.2rem;
+      color: white;
+      font-weight: 400;
+      height: 1rem;
+    }
+    .bca-container p{
+      padding-left: 3rem;
+      color: white;
+      font-weight: 600;
+    }
+
+
+    .love{
+      background-color: #784af6;
+      height: 70%;
+      width: 35%;
+      }
+
+
+      .love h1{
+        padding-left: 3rem;
+        margin-top: 3rem;
+      }
+
+      .love p{
+        padding-left: 3rem;
+        padding-right: 1.3rem;
+        font-weight: 400;
+      }
+
+      .content-part3{
+        height: calc(100% - 65% - 16vh);
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        margin-top: 6vh;
+      }
+
+.contact{
+  width: 35%;
+  height: 80%;
+  background-color: rgb(255, 255, 255);
+}
+
+.contact h1{
+  padding-left: 3rem;
+  margin-top: 3rem;
+  font-size: 2.5vw;
+}
+
+.contact p{
+  padding-left: 3rem;
+  font-size: 1.2vw;
+
+}
+
+
+.experience{
+  width: 60%;
+  height: 95%;
+  background-color: #3366CC;
+}
+
+.experience h1{
+  padding-left: 3rem;
+  color: white;
+  font-size: 3rem;
+
+}
+
+
+.exp-container h3{
+  padding-left: 3rem;
+  font-size: 1.7rem;
+  color: #60A9F0;
+  height: 1rem;
+}
+
+.exp-container h4{
+  padding-left: 3rem;
+  font-size: 1.7rem;
+  color: white;
+  font-weight: 400;
+  height: 0.5vh;
+}
+.exp-container h6{
+  padding-left: 3rem;
+  font-size: 1.4rem;
+  color: white;
+  font-weight: 400;
+  height: 1rem;
+}
+.exp-container p{
+  padding-left: 3rem;
+  color: white;
+  font-weight: 600;
+}
+
+.content-part4{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(100, 168, 190);
+}
+
+
+.linkedin-icons{
+  height: 2rem;
+  width: 2rem;
+  margin:1rem 2rem 3rem 3rem;
+}
+.github-icons{
+  height: 2rem;
+  width: 2rem;
+  margin:1.3rem 2rem 3rem 3rem;
+}
+
+.facebook-icons{
+  height: 2rem;
+  width: 2rem;
+  margin:1.3rem 2rem 3rem 3rem;
+}
+
+.project{
+  width: 55%;
+  height: 75vh;
+  margin-top: 2rem;
+  margin-left: 10rem;
+  background-color: #784af6;
+}
+
+.project > h1{
+  text-align: center;
+}
+.project > h4{
+  margin-left: 2rem;
+}
+
+.project p{
+  padding-left: 3rem;
+  padding-right: 2.5rem;
+  font-weight: 400;
+  color: white;
+}
+
+
+@media (max-width:500px) {
+  
+
+.my-img{
+  background-color: rgb(1, 158, 6);
+  height: 28vh;
+  width:50vw;
+  align-self: center;
+  border-radius: 50%;
+}
+
+
+  .header p{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 300;
+    color: rgb(1, 158, 6);
+  }
+
+  .about{
+    background-color: rgb(255, 255, 255);
+    height: auto;
+    width: 100%;
+    
+    }
+
+    .content-part1{
+      margin-top: 3vh;
+      height: 31%;
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      gap: 2rem;
+    }
+
+    .skills{
+      background-color: #3366CC;
+      height: auto;
+      width: 100%;
+      padding-left: 3rem;
+      color: rgb(255, 255, 255);
+      }
+
+      .content-part3{
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-top: 6vh;
+      }
+
+      .main-content{
+        width: 117%;
+        height: auto;
+        background-color: rgb(100, 168, 190);
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+      .content-part4{
+        width: 117%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        background-color: rgb(100, 168, 190);
+      }
+      .content-part2{
+
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-top: 7vh;
+      }
+      .education{
+        background-color: #3366CC;
+        height: auto;
+        width: 100%;
+        }
+
+        .sub-content{
+          margin-top: 1vh;
+          margin-bottom: 1vh;
+          height: auto;
+          width: 75%;
+        }
+        .education h1{
+          padding-left: 3rem;
+          color: white;
+          font-size: 3rem;
+    
+        }
+        .bca-container h3{
+          padding-left: 3rem;
+          font-size: 2rem;
+          color: #60A9F0;
+          height: 1rem;
+        }
+    
+        .bca-container h4{
+          padding-left: 3rem;
+          font-size: 1.7rem;
+          color: white;
+          font-weight: 400;
+          height: 1rem;
+          margin-top: 8rem;
+        }
+        .bca-container h6{
+          padding-left: 3rem;
+          font-size: 1.2rem;
+          color: white;
+          font-weight: 400;
+          height: 1rem;
+          margin-top: 4rem;
+        }
+        .bca-container p{
+          padding-left: 3rem;
+          color: white;
+          font-weight: 600;
+          padding-right: 2rem;
+        }
+        .love{
+          background-color: #784af6;
+          height: auto;
+          width: 100%;
+          margin-top: 2rem;
+          }
+    
+    
+          .love h1{
+            padding-left: 3rem;
+            margin-top: 3rem;
+          }
+    
+          .love p{
+            padding-left: 3rem;
+            padding-right: 1.3rem;
+            font-weight: 400;
+          }
+          .contact{
+            width: 100%;
+            height: 80%;
+            background-color: rgb(255, 255, 255);
+          }
+
+
+          .experience{
+            width: 100%;
+            height: 95%;
+            background-color: #3366CC;
+            margin-top: 2rem;
+          }
+          
+          .experience h1{
+            padding-left: 3rem;
+            color: white;
+            font-size: 3rem;
+          
+          }
+          
+          
+          .exp-container h3{
+            padding-left: 2rem;
+            font-size: 1.7rem;
+            color: #60A9F0;
+            height: 1rem;
+          }
+          
+          .exp-container h4{
+            padding-left: 2rem;
+            font-size: 1.4rem;
+            color: white;
+            font-weight: 400;
+            height: 0.5vh;
+            margin-top: 4rem;
+          }
+          .exp-container h6{
+            padding-left: 2rem;
+            font-size: 1.1rem;
+            color: white;
+            font-weight: 400;
+            height: 1rem;
+            margin-top: 4rem;
+          }
+          .exp-container p{
+            padding-left: 3rem;
+            color: white;
+            font-weight: 600;
+          }
+
+          .project{
+            width: 100%;
+            height: auto;
+            margin-top: 7rem;
+            margin-left: 2rem;
+            margin-right: 2rem;
+            background-color: #784af6;
+          }
+          
+          .project > h1{
+            text-align: center;
+          }
+          .project > h4{
+            margin-left: 2rem;
+          }
+          
+          .project p{
+            padding-left: 3rem;
+            padding-right: 2.5rem;
+            font-weight: 400;
+            color: white;
+          }
+          .header{
+            width: 117%;
+            height: 95vh;
+          margin: 0 auto;
+            align-content: center;
+          }
+
+          .contact{
+            width: 100%;
+            height: 80%;
+            background-color: rgb(255, 255, 255);
+          }
+          
+          .contact h1{
+            padding-left: 3rem;
+            margin-top: 3rem;
+            font-size: 10vw;
+          }
+          
+          .contact p{
+            padding-left: 3rem;
+            font-size: 2.7vw;
+          
+          }
+}
+
+
