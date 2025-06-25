@@ -49,22 +49,17 @@ export default function Home() {
             <div className="education">
               <h1>Experience</h1>
               <div className="bca-container">
- <h3>Apprenticeship in Full Stack Development</h3>
-                <h4>AcesofTech Academy, Kolkata,India</h4>
-                <h6>April 2020 - Present</h6>
+ <h4>Apprenticeship in Full Stack Development</h4>
+                <h5>AcesofTech Academy, Kolkata,India</h5>
+                <h6>April 2024 - September</h6>
                 <p>
-                   During my apprenticeship, I gained a comprehensive
-                  understanding of various web development technologies and
-                  tools. I learned JavaScript and honed my skills in building
-                  dynamic user interfaces using React.js. I also delved into
-                  backend development with Express.js and MongoDB, gaining
-                  expertise in creating robust server-side applications.
-                  Additionally, I explored third-party libraries such as JSON
-                  Web Token for secure authentication, Multer for handling file
-                  uploads, Cloudinary for image management, and Axios for making
-                  HTTP requests. This experience has equipped me with a
-                  versatile skill set, enabling me to develop full-stack
-                  applications efficiently and effectively.
+                  During my apprenticeship, I gained hands-on experience in full-stack development using React, Express, MongoDB, JWT, Multer, Cloudinary, and Axios, building secure, efficient, and dynamic web applications.
+                </p>
+                      <h4>Apprenticeship in Full Stack Development</h4>
+                <h5>AcesofTech Academy, Kolkata,India</h5>
+                <h6>April 2024 - September</h6>
+                <p>
+                  During my apprenticeship, I gained hands-on experience in full-stack development using React, Express, MongoDB, JWT, Multer, Cloudinary, and Axios, building secure, efficient, and dynamic web applications.
                 </p>
               </div>
             </div>
