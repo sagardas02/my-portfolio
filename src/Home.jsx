@@ -12,8 +12,8 @@ export default function Home() {
         <div className="img">
           <img src={emoji} alt="" className="my-img" />
         </div>
-        <h1 className="intro1">Front-End Developer</h1>
-        <p>I build web apps with love and code beautifully simple designs</p>
+        <h1 className="intro1">DevOps Engineer</h1>
+        <p>I craft pipelines, tame servers, and turn complex deployments into smooth, repeatable magic.</p>
       </div>
       <div className="main-content">
         <div className="sub-content">
@@ -21,35 +21,26 @@ export default function Home() {
             <div className="about">
               <h1>About me</h1>
               <p>
-                As a motivated and detail-oriented fresher in the field of web
-                development, I am passionate about creating intuitive and
-                visually appealing web applications. With a solid foundation in
-                HTML, CSS, JavaScript, and experience with frameworks like
-                React, I am eager to apply my skills to real-world projects. I
-                am a quick learner, adept at problem-solving, and committed to
-                staying updated with the latest industry trends. My goal is to
-                contribute effectively to a dynamic team, continuously improve
-                my technical abilities, and build innovative solutions that
-                enhance user experiences.
+               As a motivated and detail-oriented fresher in DevOps, I am passionate about automating workflows, optimizing infrastructure, and ensuring seamless software deployment. I have a solid foundation in Linux, AWS, and CI/CD tools, with prior experience in web development using HTML, CSS, JavaScript, and React.js. This background gives me a strong understanding of application development and deployment. I am a quick learner, adept at problem-solving, and committed to staying updated with industry trends. My goal is to contribute effectively to a dynamic team, enhance my technical skills, and build scalable, efficient, and secure DevOps solutions.
               </p>
             </div>
             <div className="skills">
               <h1>Skills</h1>
 
               <div className="strong">
-                <strong>HTML, CSS </strong>
+                <strong>Linux, Docker</strong>
                 <div className="hr"></div>
               </div>
               <div className="strong">
-                <strong>Javascript, ReactJs</strong>
+                <strong>Jenkins, Gitlab, ArgoCD</strong>
                 <div className="hr2"></div>
               </div>
               <div className="strong">
-                <strong>NodeJs, ExpressJs</strong>
+                <strong>Kubernetes, Terraform</strong>
                 <div className="hr3"></div>
               </div>
               <div className="strong">
-                <strong>MoongoDB</strong>
+                <strong>Javascript, ReactJs</strong>
                 <div className="hr4"></div>
               </div>
             </div>
@@ -58,23 +49,9 @@ export default function Home() {
             <div className="education">
               <h1>Education</h1>
               <div className="bca-container">
-                <h3>Apprenticeship in Full Stack Development</h3>
-                <h4>AcesofTech Academy, Kolkata,India</h4>
-                <h6>April 2020 - Present</h6>
-                <p>
-                   During my apprenticeship, I gained a comprehensive
-                  understanding of various web development technologies and
-                  tools. I learned JavaScript and honed my skills in building
-                  dynamic user interfaces using React.js. I also delved into
-                  backend development with Express.js and MongoDB, gaining
-                  expertise in creating robust server-side applications.
-                  Additionally, I explored third-party libraries such as JSON
-                  Web Token for secure authentication, Multer for handling file
-                  uploads, Cloudinary for image management, and Axios for making
-                  HTTP requests. This experience has equipped me with a
-                  versatile skill set, enabling me to develop full-stack
-                  applications efficiently and effectively.
-                </p>
+               <h3>Bachelors in Computer Application</h3>
+                <h4>Gauhati University, Guwahati,India</h4>
+                <h6>September 2020 - Present</h6>
               </div>
             </div>
             <div className="love">
@@ -110,10 +87,24 @@ export default function Home() {
             <div className="experience">
               <h1>Experience</h1>
               <div className="exp-container">
-                <h3>Bachelors in Computer Application</h3>
-                <h4>Gauhati University, Guwahati,India</h4>
-                <h6>September 2020 - Present</h6>
-                
+ 
+                                <h3>Apprenticeship in Full Stack Development</h3>
+                <h4>AcesofTech Academy, Kolkata,India</h4>
+                <h6>April 2020 - Present</h6>
+                <p>
+                   During my apprenticeship, I gained a comprehensive
+                  understanding of various web development technologies and
+                  tools. I learned JavaScript and honed my skills in building
+                  dynamic user interfaces using React.js. I also delved into
+                  backend development with Express.js and MongoDB, gaining
+                  expertise in creating robust server-side applications.
+                  Additionally, I explored third-party libraries such as JSON
+                  Web Token for secure authentication, Multer for handling file
+                  uploads, Cloudinary for image management, and Axios for making
+                  HTTP requests. This experience has equipped me with a
+                  versatile skill set, enabling me to develop full-stack
+                  applications efficiently and effectively.
+                </p>
               </div>
             </div>
           </div>
