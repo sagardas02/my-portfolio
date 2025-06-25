@@ -57,13 +57,14 @@ export default function Home() {
                 </p>
               </div>
                             <div className="bca-container">
- <h3>Apprenticeship in Full Stack Development</h3>
-                <h4>AcesofTech Academy, Kolkata,India</h4>
-                <h6>April 2024 - September</h6>
+ <h3>Frontend Developer Intern</h3>
+                <h4>WebInfo Tech, Guwahati,India</h4>
+                <h6>October 2024 - November 2024</h6>
                 <p>
-                  During my apprenticeship, I gained hands-on experience in full-stack development using React, Express, MongoDB, JWT, Multer, Cloudinary, and Axios, building secure, efficient, and dynamic web applications.
+                  I transform beautiful and intuitive designs into functional code using HTML, CSS, and JavaScript, ensuring responsive layouts, smooth user experiences, and visually appealing interfaces across modern web applications
                 </p>
               </div>
+
             </div>
             <div className="love">
               <h1>What else I Love❤️</h1>
