@@ -56,6 +56,14 @@ export default function Home() {
                   During my apprenticeship, I gained hands-on experience in full-stack development using React, Express, MongoDB, JWT, Multer, Cloudinary, and Axios, building secure, efficient, and dynamic web applications.
                 </p>
               </div>
+                            <div className="bca-container">
+ <h3>Apprenticeship in Full Stack Development</h3>
+                <h4>AcesofTech Academy, Kolkata,India</h4>
+                <h6>April 2024 - September</h6>
+                <p>
+                  During my apprenticeship, I gained hands-on experience in full-stack development using React, Express, MongoDB, JWT, Multer, Cloudinary, and Axios, building secure, efficient, and dynamic web applications.
+                </p>
+              </div>
             </div>
             <div className="love">
               <h1>What else I Love❤️</h1>
