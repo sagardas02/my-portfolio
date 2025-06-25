@@ -47,11 +47,25 @@ export default function Home() {
           </div>
           <div className="content-part2">
             <div className="education">
-              <h1>Education</h1>
+              <h1>Experience</h1>
               <div className="bca-container">
-               <h3>Bachelors in Computer Application</h3>
-                <h4>Gauhati University, Guwahati,India</h4>
-                <h6>September 2020 - Present</h6>
+ <h3>Apprenticeship in Full Stack Development</h3>
+                <h4>AcesofTech Academy, Kolkata,India</h4>
+                <h6>April 2020 - Present</h6>
+                <p>
+                   During my apprenticeship, I gained a comprehensive
+                  understanding of various web development technologies and
+                  tools. I learned JavaScript and honed my skills in building
+                  dynamic user interfaces using React.js. I also delved into
+                  backend development with Express.js and MongoDB, gaining
+                  expertise in creating robust server-side applications.
+                  Additionally, I explored third-party libraries such as JSON
+                  Web Token for secure authentication, Multer for handling file
+                  uploads, Cloudinary for image management, and Axios for making
+                  HTTP requests. This experience has equipped me with a
+                  versatile skill set, enabling me to develop full-stack
+                  applications efficiently and effectively.
+                </p>
               </div>
             </div>
             <div className="love">
@@ -85,26 +99,13 @@ export default function Home() {
           </a>
             </div>
             <div className="experience">
-              <h1>Experience</h1>
+              <h1>Education</h1>
               <div className="exp-container">
+                               <h3>Bachelors in Computer Application</h3>
+                <h4>Gauhati University, Guwahati,India</h4>
+                <h6>September 2020 - Present</h6>
  
-                                <h3>Apprenticeship in Full Stack Development</h3>
-                <h4>AcesofTech Academy, Kolkata,India</h4>
-                <h6>April 2020 - Present</h6>
-                <p>
-                   During my apprenticeship, I gained a comprehensive
-                  understanding of various web development technologies and
-                  tools. I learned JavaScript and honed my skills in building
-                  dynamic user interfaces using React.js. I also delved into
-                  backend development with Express.js and MongoDB, gaining
-                  expertise in creating robust server-side applications.
-                  Additionally, I explored third-party libraries such as JSON
-                  Web Token for secure authentication, Multer for handling file
-                  uploads, Cloudinary for image management, and Axios for making
-                  HTTP requests. This experience has equipped me with a
-                  versatile skill set, enabling me to develop full-stack
-                  applications efficiently and effectively.
-                </p>
+                               
               </div>
             </div>
           </div>
