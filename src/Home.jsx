@@ -49,14 +49,8 @@ export default function Home() {
             <div className="education">
               <h1>Experience</h1>
               <div className="bca-container">
- <h4>Apprenticeship in Full Stack Development</h4>
-                <h5>AcesofTech Academy, Kolkata,India</h5>
-                <h6>April 2024 - September</h6>
-                <p>
-                  During my apprenticeship, I gained hands-on experience in full-stack development using React, Express, MongoDB, JWT, Multer, Cloudinary, and Axios, building secure, efficient, and dynamic web applications.
-                </p>
-                      <h4>Apprenticeship in Full Stack Development</h4>
-                <h5>AcesofTech Academy, Kolkata,India</h5>
+ <h3>Apprenticeship in Full Stack Development</h3>
+                <h4>AcesofTech Academy, Kolkata,India</h4>
                 <h6>April 2024 - September</h6>
                 <p>
                   During my apprenticeship, I gained hands-on experience in full-stack development using React, Express, MongoDB, JWT, Multer, Cloudinary, and Axios, building secure, efficient, and dynamic web applications.
